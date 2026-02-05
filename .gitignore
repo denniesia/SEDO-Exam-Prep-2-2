@@ -6,3 +6,5 @@ HouseRentingSystem.UnitTests/bin/
 HouseRentingSystem.UnitTests/obj/
 HouseRentingSystem.Web/bin/
 HouseRentingSystem.Web/obj/
+
+node_modules
