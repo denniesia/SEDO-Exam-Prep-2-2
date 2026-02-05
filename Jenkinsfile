@@ -1,4 +1,4 @@
-pipeline {
+pipeline {   //For Windows
     agent any 
     stages {
         stage('Restore Dotnet Packages') { 
